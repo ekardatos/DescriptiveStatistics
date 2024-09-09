@@ -2,30 +2,6 @@
 
 This project involves processing a large text file, splitting it into smaller files, and performing various statistical analyses on the text data. The project utilizes Python libraries such as `numpy`, `pandas`, `matplotlib`, and `seaborn` to manipulate and visualize the data.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Data Preprocessing](#data-preprocessing)
-- [Statistical Analysis](#statistical-analysis)
-- [Visualizations](#visualizations)
-- [License](#license)
-
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/text-processing-project.git
-    cd text-processing-project
-    ```
-
-2. Install the required Python packages:
-
-    ```bash
-    pip install numpy pandas matplotlib seaborn
-    ```
 
 ## Usage
 
