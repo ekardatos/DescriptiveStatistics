@@ -44,7 +44,3 @@ This project involves processing a large text file, splitting it into smaller fi
   - Boxplots for different metrics (e.g., TTR, h-Point, Entropy)
   - Histograms with KDE plots for each metric to visualize the distribution.
   - Calculates and displays skewness for various metrics.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
