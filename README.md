@@ -1,4 +1,4 @@
-# Quantitative Analysis of Linguistic Data
+## Descriptive Statistics
 
 This project involves processing a large text file, splitting it into smaller files, and performing various statistical analyses on the text data. The project utilizes Python libraries such as `numpy`, `pandas`, `matplotlib`, and `seaborn` to manipulate and visualize the data.
 
