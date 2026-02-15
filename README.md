@@ -7,7 +7,7 @@ This project involves processing a large text file, splitting it into smaller fi
 
 1. **Text Processing**: The main script reads a text file (Εθελοντές - Νιόβη Λύρη.txt), removes punctuation, converts it to lowercase, and splits the text into words. It then creates multiple smaller text files based on a predefined word limit.
 
-2. **Data Analysis**: The script reads a CSV file containing text data and performs various analyses, such as removing duplicates, calculating statistical measures (mean, median, standard deviation), and finding outliers.
+2. **Data Analysis**: The script reads a CSV file (Multiple Text Project 1 - Results.csv) containing text data and performs various analyses, such as removing duplicates, calculating statistical measures (mean, median, standard deviation), and finding outliers.
 
 3. **Visualizations**: The script generates boxplots and histograms for different text metrics to visualize the data distribution.
 
