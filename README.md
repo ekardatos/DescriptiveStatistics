@@ -1,14 +1,12 @@
 # Lexical Richness Analysis of Greek Literary Text
 
-A quantitative corpus linguistics study analyzing the lexical richness and vocabulary structure of a Greek literary text using six statistical indices. The corpus is derived from *"Οι Εθελοντές" (The Volunteers)* by Niovi Lyri — a contemporary Greek novel freely available via [OpenBook.gr](https://www.openbook.gr).
+A quantitative corpus linguistics study analyzing the lexical richness and vocabulary structure of a Greek literary text using six statistical indices. The corpus is derived from *"Οι Εθελοντές" (The Volunteers)* by Niovi Lyri — a contemporary Greek novel.
 
 ---
 
 ## Overview
 
 This project investigates the statistical properties of vocabulary distribution in Modern Greek prose. The source text is split into fixed-size sub-corpora (N > 30), and six lexical richness indices are computed for each segment using QUITA. The distribution of each index across segments is then analyzed statistically and visualized using Python.
-
-This work was completed as part of the course *Quantitative Analysis of Linguistic Data* (MSc in Computational Linguistics).
 
 ---
 
