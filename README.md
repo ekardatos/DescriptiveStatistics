@@ -50,7 +50,6 @@ This project investigates the statistical properties of vocabulary distribution 
 ```
 ├── descriptive_statistics.ipynb           # Main script
 ├── Multiple Text Project 1 - Results.csv  # Computed index values per sub-corpus (from QUITA)
-├── Εθελοντές - Νιόβη Λύρη.txt             # Source text (Modern Greek, plain text)
 ├── requirements.txt                       # Python dependencies
 └── README.md
 ```
