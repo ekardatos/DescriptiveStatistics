@@ -1,5 +1,4 @@
-# Lexical Richness Analysis of Greek Literary Text
-
+# Descriptive Statistics
 A quantitative corpus linguistics study analyzing the lexical richness and vocabulary structure of a Greek literary text using six statistical indices. The corpus is derived from *"Οι Εθελοντές" (The Volunteers)* by Niovi Lyri — a contemporary Greek novel.
 
 ---
