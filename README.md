@@ -44,3 +44,8 @@ This project involves processing a large text file, splitting it into smaller fi
   - Boxplots for different metrics (e.g., TTR, h-Point, Entropy)
   - Histograms with KDE plots for each metric to visualize the distribution.
   - Calculates and displays skewness for various metrics.
+ 
+
+## Overview
+
+This project investigates the statistical properties of vocabulary distribution in Modern Greek prose. The source text is split into fixed-size sub-corpora (N > 30), and six lexical richness indices are computed for each segment. The distribution of each index across segments is then analyzed statistically and visualized.
