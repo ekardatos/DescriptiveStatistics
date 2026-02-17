@@ -35,7 +35,7 @@ This project investigates the statistical properties of vocabulary distribution 
 
 ## Methodology
 
-1. **Text Selection** — one Greek literary text selected from the *75texts* corpus collection
+1. **Text Selection** — one Greek literary text
 2. **Corpus Segmentation** — the full text is split into N > 30 equal-length sub-files using Python (punctuation removed, lowercased, tokenized)
 3. **Index Computation** — TTR, h-Point, R1, Entropy, Λ, and Average Token Length computed per sub-file using **QUITA** (Quantitative Index Text Analyzer); results exported to CSV
 4. **Dominant Value** — modal value identified for the h-Point index
